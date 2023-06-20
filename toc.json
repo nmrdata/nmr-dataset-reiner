@@ -1,6 +1,7 @@
 [
     {
       "groupName": "NMR Introduction",
+      "folderName": "",
       "children": [
         {
           "file": "./H1/Ethanol-CDCl3.json",
