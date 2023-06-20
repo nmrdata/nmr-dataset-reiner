@@ -7,11 +7,11 @@
           "file": "./H1/Ethanol-CDCl3.json",
           "title": "Intro",
           "selected": true
-        }
-        ],
-        "_comment":       {
+        },
+        {
           "file": "./red-82/red-82.json",
           "title": "EtOH in CDCl3"
         }
+    ]
     }
   ]
