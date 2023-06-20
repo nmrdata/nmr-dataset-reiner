@@ -1,0 +1,23 @@
+{
+  "spectra": [
+    {
+      "source": {
+        "jcampURL": "./red-82.1.jdx"
+      }
+    },
+    {
+        "source": {
+          "jcampURL": "./red-82.2.jdx"
+        }
+    },
+    {
+        "source": {
+          "jcampURL": "./red-82.3.jdx"
+        }
+    },{
+        "source": {
+          "jcampURL": "./red-82.4.jdx"
+        }
+    }  
+  ]
+}

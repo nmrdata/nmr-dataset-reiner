@@ -2,8 +2,8 @@
   "spectra": [
     {
       "source": {
-        "jcampURL": "./red-82.1.jdx"
+        "jcampURL": "./H1/Ethanol-CDCl3.jdx"
       }
     }
-    ]
+  ]
 }

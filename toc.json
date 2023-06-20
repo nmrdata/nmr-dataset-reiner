@@ -1,0 +1,16 @@
+[
+    {
+      "groupName": "NMR Introduction",
+      "children": [
+        {
+          "file": "./H1/Ethanol-CDCl3.json",
+          "title": "Intro",
+          "selected": true
+        },
+        {
+          "file": "./red-82/red-82.json",
+          "title": "EtOH in CDCl3"
+        }
+      ]
+    }
+  ]
